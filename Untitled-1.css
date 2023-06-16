@@ -1,0 +1,38 @@
+.continer{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    background-color: rgb(172, 67, 182);
+}
+.continer > *{
+
+}
+.cont1{
+    background-color:rgb(51, 3, 45);
+    flex-basis: 200px;
+    flex-shrink: 0;
+    padding-left: 3%;
+}
+.cont2{
+    background-color: rgb(51, 3, 45);
+    flex-basis: 200px;
+    font-weight: 600px;  
+}
+.cont3{
+    background-color:rgb(51, 3, 45);
+    flex-basis: 300px;
+    font-weight: 600px;  
+}
+.cont4{
+    background-color:rgb(51, 3, 45);
+    flex-basis: 400px;
+    font-weight: 600px;  
+}
+.cont5{
+    background-color:rgb(51, 3, 45);
+    flex-basis: 500px;
+    font-weight: 600px;  
+}
+body{
+    margin: 0px;
+}
