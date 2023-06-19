@@ -74,6 +74,9 @@ h1{
     padding-top: 4%;
 }h3{
     margin: 0;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+
 }
 .p{
     display: block;
